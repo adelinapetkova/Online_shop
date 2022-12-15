@@ -1,0 +1,23 @@
+<clothes>
+_trousers
+*Jack and Jones jeans,100.99,images/jackAndJonesJeans.jpg
+*Christian Dior pants,50.00,images/diorPants.jpg
+*Jack and Jones jean,100.99,images/jackAndJonesJeans.jpg
+_T-shirts
+*Jack and Jones,9.99,images/jackAndJones.jpg
+*Christian Dior,25.00,images/dior.jpg
+_jackets
+*Burberry jacket,500.00,images/burberryJacket.jpg
+*Christian Dior jacket,800.00,images/diorJacket.jpg
+</clothes>
+<electronics>
+_notebooks
+*Acer Aspire 5750G,100000.99,images/acer5750G.jpg
+*Lenovo V13015IGM,1500.99,images/lenovo.jpg
+*Acer Aspire 3 A31553G35VX,2000.00,images/acer3.jpg
+*Lenovo V1315IGM,2500.99,images/lenovo.jpg
+_smartphones
+*Samsung Galaxy S9,1600.99,images/samsung.jpg
+*LG G5,1200.99,images/lg.jpg
+*Xiaomi Redmi Note 5 Pro,400.00,images/xiaomi.jpg
+</electronics>

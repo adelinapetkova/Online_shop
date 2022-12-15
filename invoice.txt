@@ -1,0 +1,7 @@
+Products and quantities:
+Jack and Jones jeans ---> 1
+Jack and Jones ---> 2
+Xiaomi Redmi Note 5 Pro ---> 2
+
+Final price:
+920.97 lv.
